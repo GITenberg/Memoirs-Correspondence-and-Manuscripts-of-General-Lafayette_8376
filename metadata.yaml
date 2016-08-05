@@ -1,0 +1,30 @@
+_repo: Memoirs-Correspondence-and-Manuscripts-of-General-Lafayette_8376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis
+      de
+    aliases:
+    - Lafayette, marquis de
+    - Du Motier, Gilbert, marquis de Lafayette
+    birthdate: 1757
+    deathdate: 1834
+    gutenberg_agent_id: '2473'
+    url: http://www.gutenberg.org/2009/agents/2473
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_du_Motier%2C_Marquis_de_La_Fayette
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcc 'DC'
+- GITenberg
+title: Memoirs, Correspondence and Manuscripts of General Lafayette
+url: http://www.gutenberg.org/ebooks/8376
