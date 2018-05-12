@@ -1,5 +1,8 @@
 _repo: Memoirs-Correspondence-and-Manuscripts-of-General-Lafayette_8376
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2473
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_du_Motier%2C_Marquis_de_La_Fayette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8376#Memoirs-Correspondence-and-Manuscripts-of-General-Lafayette
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
